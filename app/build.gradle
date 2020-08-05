@@ -35,5 +35,9 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
 
     implementation 'androidx.cardview:cardview:1.0.0'
+    implementation 'androidx.recyclerview:recyclerview:1.1.0'
 
+    implementation "org.jetbrains.anko:anko-commons:0.10.5"
+    implementation "org.jetbrains.anko:anko-design:0.10.5"
+    implementation 'com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.30'
 }

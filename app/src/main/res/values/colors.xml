@@ -3,4 +3,13 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+
+    <color name="textColor9">#999999</color>
+    <color name="textColor6">#666666</color>
+    <color name="textColor3">#333333</color>
+    <color name="textColorE">#eeeeee</color>
+    <color name="textColorClockGray">#bdbdc3</color>
+    <color name="textColorClockBlack">#262e38</color>
+
+    <color name="clockBg">#f3f3f3</color>
 </resources>
