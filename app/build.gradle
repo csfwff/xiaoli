@@ -14,6 +14,9 @@ android {
         versionName "1.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        ndk {
+            abiFilters "armeabi-v7a", "arm64-v8a"
+        }
     }
 
     buildTypes {
@@ -22,10 +25,19 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+            assets.srcDir "assets"
+        }
+    }
+
+    configurations { natives }
+
 }
 
 dependencies {
-    implementation fileTree(dir: "libs", include: ["*.jar"])
+    //implementation fileTree(dir: "libs", include: ["*.jar"])
     implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
     implementation 'androidx.core:core-ktx:1.1.0'
     implementation 'androidx.appcompat:appcompat:1.1.0'
@@ -40,4 +52,10 @@ dependencies {
     implementation "org.jetbrains.anko:anko-commons:0.10.5"
     implementation "org.jetbrains.anko:anko-design:0.10.5"
     implementation 'com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.30'
+    implementation project(':gdx-backend-android-textureview')
+    implementation 'com.esotericsoftware.spine:spine-libgdx:3.6.52.1'
+    implementation 'com.badlogicgames.gdx:gdx:1.9.9'
+    natives "com.badlogicgames.gdx:gdx-platform:1.9.9:natives-armeabi"
+    natives "com.badlogicgames.gdx:gdx-platform:1.9.9:natives-armeabi-v7a"
+    natives "com.badlogicgames.gdx:gdx-platform:1.9.9:natives-x86_64"
 }

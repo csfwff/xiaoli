@@ -1,2 +1,3 @@
+include ':gdx-backend-android-textureview'
 include ':app'
 rootProject.name = "XiaoLi"

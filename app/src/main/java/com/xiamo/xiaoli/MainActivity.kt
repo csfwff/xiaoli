@@ -1,20 +1,27 @@
 package com.xiamo.xiaoli
 
+import android.graphics.PixelFormat
 import android.graphics.Typeface
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
+import android.view.SurfaceView
+import android.view.View
 import androidx.recyclerview.widget.LinearLayoutManager
+import com.badlogic.gdx.backends.android.AndroidApplication
+import com.badlogic.gdx.backends.android.AndroidApplicationConfiguration
 import com.chad.library.adapter.base.BaseQuickAdapter
 import com.chad.library.adapter.base.BaseViewHolder
+import com.xiamo.xiaoli.other.GdxAdapter
 import kotlinx.android.synthetic.main.activity_main.*
 import java.text.SimpleDateFormat
 import java.util.*
 
-class MainActivity : AppCompatActivity() {
+class MainActivity : AndroidApplication() {
 
     var weekIndex = 0
-
+    lateinit var mGdxAdapter: GdxAdapter
+    lateinit var mGdxView: View
     val mHandler: Handler = Handler { false }
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -31,6 +38,27 @@ class MainActivity : AppCompatActivity() {
 
         mHandler.postDelayed(TimeRunnable(), 0)
 
+        initGDX()
+
+    }
+
+
+
+    private fun initGDX(){
+        val cfg = AndroidApplicationConfiguration()
+        cfg.useTextureView = false
+        cfg.useImmersiveMode = true
+        cfg.a = 8
+        cfg.b = cfg.a
+        cfg.g = cfg.b
+        cfg.r = cfg.g
+        mGdxAdapter = GdxAdapter()
+        mGdxView = initializeForView(mGdxAdapter, cfg)
+
+        (mGdxView as SurfaceView).holder.setFormat(PixelFormat.TRANSLUCENT)
+        (mGdxView as SurfaceView).setZOrderOnTop(true)
+
+        gdxFl.addView(mGdxView)
     }
 
 

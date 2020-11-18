@@ -1,0 +1,480 @@
+
+fengbaonv.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_chibang02
+  rotate: false
+  xy: 995, 123
+  size: 27, 76
+  orig: 27, 76
+  offset: 0, 0
+  index: -1
+A_zhuazi02
+  rotate: true
+  xy: 321, 292
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+B_chibang02
+  rotate: false
+  xy: 733, 10
+  size: 60, 63
+  orig: 60, 63
+  offset: 0, 0
+  index: -1
+B_niaoshen
+  rotate: true
+  xy: 747, 287
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+B_zhuazi01
+  rotate: false
+  xy: 295, 87
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+B_zhuazi02
+  rotate: true
+  xy: 2, 2
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+C_chibang01
+  rotate: true
+  xy: 167, 4
+  size: 90, 126
+  orig: 90, 126
+  offset: 0, 0
+  index: -1
+C_niaotui
+  rotate: false
+  xy: 995, 80
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+C_zhuazi
+  rotate: true
+  xy: 817, 2
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+L_tui
+  rotate: true
+  xy: 321, 75
+  size: 207, 480
+  orig: 207, 480
+  offset: 0, 0
+  index: -1
+L_yidai
+  rotate: true
+  xy: 295, 2
+  size: 71, 91
+  orig: 71, 91
+  offset: 0, 0
+  index: -1
+R_tui
+  rotate: true
+  xy: 332, 284
+  size: 254, 413
+  orig: 254, 413
+  offset: 0, 0
+  index: -1
+beishi01a
+  rotate: false
+  xy: 332, 540
+  size: 432, 482
+  orig: 432, 482
+  offset: 0, 0
+  index: -1
+houfa04
+  rotate: false
+  xy: 2, 304
+  size: 328, 718
+  orig: 328, 718
+  offset: 0, 0
+  index: -1
+houfa07
+  rotate: false
+  xy: 963, 201
+  size: 48, 114
+  orig: 48, 114
+  offset: 0, 0
+  index: -1
+kuzidi
+  rotate: true
+  xy: 963, 16
+  size: 58, 40
+  orig: 58, 40
+  offset: 0, 0
+  index: -1
+liuhai05
+  rotate: true
+  xy: 2, 10
+  size: 84, 163
+  orig: 84, 163
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: false
+  xy: 795, 2
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+shangshen
+  rotate: true
+  xy: 2, 96
+  size: 206, 317
+  orig: 206, 317
+  offset: 0, 0
+  index: -1
+texiao02
+  rotate: true
+  xy: 995, 106
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+texiao03
+  rotate: true
+  xy: 747, 317
+  size: 216, 274
+  orig: 216, 274
+  offset: 0, 0
+  index: -1
+texiao04
+  rotate: true
+  xy: 803, 16
+  size: 299, 158
+  orig: 299, 158
+  offset: 0, 0
+  index: -1
+texiao07
+  rotate: true
+  xy: 963, 76
+  size: 123, 30
+  orig: 123, 30
+  offset: 0, 0
+  index: -1
+texiao10
+  rotate: false
+  xy: 766, 535
+  size: 250, 487
+  orig: 250, 487
+  offset: 0, 0
+  index: -1
+texiao12
+  rotate: false
+  xy: 577, 8
+  size: 154, 65
+  orig: 154, 65
+  offset: 0, 0
+  index: -1
+yaohuan02
+  rotate: false
+  xy: 388, 13
+  size: 187, 60
+  orig: 187, 60
+  offset: 0, 0
+  index: -1
+
+fengbaonv2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_niaoshen
+  rotate: false
+  xy: 2, 21
+  size: 114, 68
+  orig: 114, 68
+  offset: 0, 0
+  index: -1
+A_zhuazi01
+  rotate: true
+  xy: 975, 770
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+B_chibang01
+  rotate: false
+  xy: 974, 573
+  size: 44, 82
+  orig: 44, 82
+  offset: 0, 0
+  index: -1
+B_niaotou
+  rotate: true
+  xy: 937, 770
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1
+C_chibang02
+  rotate: true
+  xy: 946, 96
+  size: 90, 56
+  orig: 90, 56
+  offset: 0, 0
+  index: -1
+C_niaoshen
+  rotate: true
+  xy: 974, 487
+  size: 84, 41
+  orig: 84, 41
+  offset: 0, 0
+  index: -1
+C_weiba
+  rotate: true
+  xy: 430, 516
+  size: 57, 24
+  orig: 57, 24
+  offset: 0, 0
+  index: -1
+L_shangbi
+  rotate: true
+  xy: 636, 18
+  size: 158, 110
+  orig: 158, 110
+  offset: 0, 0
+  index: -1
+R_shou
+  rotate: true
+  xy: 946, 15
+  size: 79, 51
+  orig: 79, 51
+  offset: 0, 0
+  index: -1
+R_shoushi
+  rotate: false
+  xy: 330, 78
+  size: 96, 95
+  orig: 96, 95
+  offset: 0, 0
+  index: -1
+R_xiabi
+  rotate: true
+  xy: 771, 175
+  size: 163, 127
+  orig: 163, 127
+  offset: 0, 0
+  index: -1
+R_yidai
+  rotate: false
+  xy: 930, 616
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+beishi01
+  rotate: false
+  xy: 937, 793
+  size: 56, 95
+  orig: 56, 95
+  offset: 0, 0
+  index: -1
+beishi02
+  rotate: false
+  xy: 2, 575
+  size: 453, 445
+  orig: 453, 445
+  offset: 0, 0
+  index: -1
+daimao01
+  rotate: false
+  xy: 974, 452
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+houfa01
+  rotate: true
+  xy: 828, 394
+  size: 220, 144
+  orig: 220, 144
+  offset: 0, 0
+  index: -1
+houfa03
+  rotate: true
+  xy: 457, 770
+  size: 250, 478
+  orig: 250, 478
+  offset: 0, 0
+  index: -1
+kuzi01
+  rotate: false
+  xy: 430, 5
+  size: 204, 171
+  orig: 204, 171
+  offset: 0, 0
+  index: -1
+liuhai03
+  rotate: false
+  xy: 305, 2
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+liuhai04
+  rotate: true
+  xy: 930, 657
+  size: 111, 90
+  orig: 111, 90
+  offset: 0, 0
+  index: -1
+shipin01
+  rotate: false
+  xy: 216, 11
+  size: 87, 78
+  orig: 87, 78
+  offset: 0, 0
+  index: -1
+texiao01
+  rotate: false
+  xy: 900, 188
+  size: 112, 204
+  orig: 112, 204
+  offset: 0, 0
+  index: -1
+texiao05
+  rotate: true
+  xy: 937, 890
+  size: 130, 66
+  orig: 130, 66
+  offset: 0, 0
+  index: -1
+texiao08
+  rotate: false
+  xy: 457, 616
+  size: 471, 152
+  orig: 471, 152
+  offset: 0, 0
+  index: -1
+texiao09
+  rotate: true
+  xy: 828, 340
+  size: 52, 55
+  orig: 52, 55
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 118, 10
+  size: 79, 96
+  orig: 79, 96
+  offset: 0, 0
+  index: -1
+toushi01
+  rotate: false
+  xy: 430, 178
+  size: 339, 160
+  orig: 339, 160
+  offset: 0, 0
+  index: -1
+toushi02
+  rotate: false
+  xy: 748, 3
+  size: 196, 170
+  orig: 196, 170
+  offset: 0, 0
+  index: -1
+toushi03
+  rotate: false
+  xy: 457, 340
+  size: 369, 274
+  orig: 369, 274
+  offset: 0, 0
+  index: -1
+tuihuan
+  rotate: true
+  xy: 330, 175
+  size: 398, 98
+  orig: 398, 98
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: true
+  xy: 381, 16
+  size: 60, 34
+  orig: 60, 34
+  offset: 0, 0
+  index: -1
+yaohuan
+  rotate: true
+  xy: 2, 91
+  size: 482, 326
+  orig: 482, 326
+  offset: 0, 0
+  index: -1
+
+fengbaonv3.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_chibang01
+  rotate: true
+  xy: 645, 136
+  size: 100, 136
+  orig: 100, 136
+  offset: 0, 0
+  index: -1
+R_xiabia
+  rotate: false
+  xy: 783, 143
+  size: 126, 93
+  orig: 126, 93
+  offset: 0, 0
+  index: -1
+houfa02
+  rotate: false
+  xy: 291, 15
+  size: 243, 221
+  orig: 243, 221
+  offset: 0, 0
+  index: -1
+houfa05
+  rotate: true
+  xy: 2, 6
+  size: 230, 287
+  orig: 230, 287
+  offset: 0, 0
+  index: -1
+kuzi02
+  rotate: false
+  xy: 536, 106
+  size: 107, 130
+  orig: 107, 130
+  offset: 0, 0
+  index: -1
+liuhai01
+  rotate: false
+  xy: 536, 53
+  size: 77, 51
+  orig: 77, 51
+  offset: 0, 0
+  index: -1
+liuhai02
+  rotate: false
+  xy: 536, 2
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+texiao06
+  rotate: true
+  xy: 911, 136
+  size: 100, 105
+  orig: 100, 105
+  offset: 0, 0
+  index: -1
