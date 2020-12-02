@@ -1,0 +1,293 @@
+
+063.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ainite1
+  rotate: false
+  xy: 1065, 804
+  size: 324, 343
+  orig: 324, 343
+  offset: 0, 0
+  index: -1
+ainite10
+  rotate: false
+  xy: 356, 33
+  size: 139, 110
+  orig: 139, 110
+  offset: 0, 0
+  index: -1
+ainite11
+  rotate: true
+  xy: 672, 177
+  size: 110, 139
+  orig: 110, 139
+  offset: 0, 0
+  index: -1
+ainite13
+  rotate: true
+  xy: 1391, 817
+  size: 330, 196
+  orig: 330, 196
+  offset: 0, 0
+  index: -1
+ainite14
+  rotate: false
+  xy: 2, 1653
+  size: 985, 391
+  orig: 985, 391
+  offset: 0, 0
+  index: -1
+ainite15
+  rotate: false
+  xy: 1564, 501
+  size: 271, 314
+  orig: 271, 314
+  offset: 0, 0
+  index: -1
+ainite16
+  rotate: true
+  xy: 989, 1149
+  size: 473, 519
+  orig: 473, 519
+  offset: 0, 0
+  index: -1
+ainite17
+  rotate: false
+  xy: 989, 1624
+  size: 696, 420
+  orig: 696, 420
+  offset: 0, 0
+  index: -1
+ainite18
+  rotate: false
+  xy: 1837, 625
+  size: 112, 129
+  orig: 112, 129
+  offset: 0, 0
+  index: -1
+ainite19
+  rotate: false
+  xy: 1831, 330
+  size: 215, 169
+  orig: 215, 169
+  offset: 0, 0
+  index: -1
+ainite2
+  rotate: false
+  xy: 1686, 1201
+  size: 278, 172
+  orig: 278, 172
+  offset: 0, 0
+  index: -1
+ainite20
+  rotate: false
+  xy: 497, 116
+  size: 132, 106
+  orig: 132, 106
+  offset: 0, 0
+  index: -1
+ainite21
+  rotate: false
+  xy: 356, 145
+  size: 125, 236
+  orig: 125, 236
+  offset: 0, 0
+  index: -1
+ainite22
+  rotate: true
+  xy: 497, 2
+  size: 112, 121
+  orig: 112, 121
+  offset: 0, 0
+  index: -1
+ainite23
+  rotate: false
+  xy: 1687, 1645
+  size: 337, 399
+  orig: 337, 399
+  offset: 0, 0
+  index: -1
+ainite24
+  rotate: true
+  xy: 1510, 1230
+  size: 392, 174
+  orig: 392, 174
+  offset: 0, 0
+  index: -1
+ainite25
+  rotate: false
+  xy: 1951, 784
+  size: 62, 103
+  orig: 62, 103
+  offset: 0, 0
+  index: -1
+ainite26
+  rotate: false
+  xy: 490, 224
+  size: 180, 833
+  orig: 180, 833
+  offset: 0, 0
+  index: -1
+ainite27
+  rotate: false
+  xy: 1837, 756
+  size: 112, 131
+  orig: 112, 131
+  offset: 0, 0
+  index: -1
+ainite28
+  rotate: true
+  xy: 1156, 453
+  size: 349, 252
+  orig: 349, 252
+  offset: 0, 0
+  index: -1
+ainite29
+  rotate: false
+  xy: 586, 1141
+  size: 401, 510
+  orig: 401, 510
+  offset: 0, 0
+  index: -1
+ainite3
+  rotate: false
+  xy: 1837, 889
+  size: 189, 147
+  orig: 189, 147
+  offset: 0, 0
+  index: -1
+ainite30
+  rotate: false
+  xy: 1951, 604
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+ainite31
+  rotate: false
+  xy: 869, 410
+  size: 285, 352
+  orig: 285, 352
+  offset: 0, 0
+  index: -1
+ainite32
+  rotate: false
+  xy: 1589, 1031
+  size: 241, 168
+  orig: 241, 168
+  offset: 0, 0
+  index: -1
+ainite33
+  rotate: false
+  xy: 1652, 195
+  size: 177, 304
+  orig: 177, 304
+  offset: 0, 0
+  index: -1
+ainite34
+  rotate: true
+  xy: 1831, 191
+  size: 137, 214
+  orig: 137, 214
+  offset: 0, 0
+  index: -1
+ainite35
+  rotate: false
+  xy: 2, 43
+  size: 352, 338
+  orig: 352, 338
+  offset: 0, 0
+  index: -1
+ainite36
+  rotate: false
+  xy: 672, 289
+  size: 195, 850
+  orig: 195, 850
+  offset: 0, 0
+  index: -1
+ainite37
+  rotate: false
+  xy: 1951, 688
+  size: 60, 94
+  orig: 60, 94
+  offset: 0, 0
+  index: -1
+ainite38
+  rotate: false
+  xy: 1687, 1375
+  size: 296, 268
+  orig: 296, 268
+  offset: 0, 0
+  index: -1
+ainite39
+  rotate: false
+  xy: 2, 1059
+  size: 582, 592
+  orig: 582, 592
+  offset: 0, 0
+  index: -1
+ainite4
+  rotate: false
+  xy: 1374, 190
+  size: 276, 249
+  orig: 276, 249
+  offset: 0, 0
+  index: -1
+ainite40
+  rotate: false
+  xy: 2, 383
+  size: 486, 674
+  orig: 486, 674
+  offset: 0, 0
+  index: -1
+ainite41
+  rotate: false
+  xy: 869, 764
+  size: 194, 375
+  orig: 194, 375
+  offset: 0, 0
+  index: -1
+ainite41a
+  rotate: false
+  xy: 1188, 217
+  size: 184, 234
+  orig: 184, 234
+  offset: 0, 0
+  index: -1
+ainite5
+  rotate: false
+  xy: 1832, 1038
+  size: 173, 161
+  orig: 173, 161
+  offset: 0, 0
+  index: -1
+ainite6
+  rotate: true
+  xy: 869, 219
+  size: 189, 317
+  orig: 189, 317
+  offset: 0, 0
+  index: -1
+ainite7
+  rotate: true
+  xy: 1410, 441
+  size: 374, 152
+  orig: 374, 152
+  offset: 0, 0
+  index: -1
+ainite8
+  rotate: true
+  xy: 1837, 501
+  size: 122, 108
+  orig: 122, 108
+  offset: 0, 0
+  index: -1
+ainite9
+  rotate: false
+  xy: 1589, 869
+  size: 246, 160
+  orig: 246, 160
+  offset: 0, 0
+  index: -1

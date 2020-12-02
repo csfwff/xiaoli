@@ -1,5 +1,7 @@
 package com.xiamo.xiaoli.other;
 
+import android.content.SharedPreferences;
+
 import com.badlogic.gdx.ApplicationAdapter;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.GL20;
@@ -13,6 +15,9 @@ import com.esotericsoftware.spine.SkeletonData;
 import com.esotericsoftware.spine.SkeletonJson;
 import com.esotericsoftware.spine.SkeletonRenderer;
 import com.esotericsoftware.spine.SkeletonRendererDebug;
+import com.xiamo.xiaoli.XiaoliApplication;
+import com.xiamo.xiaoli.utils.DpToPx;
+
 
 public class GdxAdapter extends ApplicationAdapter {
 
@@ -25,6 +30,8 @@ public class GdxAdapter extends ApplicationAdapter {
     private Skeleton skeleton;
     private AnimationState state;
     private SkeletonJson json;
+    private String path;
+
 
     @Override
     public void create() {
@@ -37,14 +44,18 @@ public class GdxAdapter extends ApplicationAdapter {
         debugRenderer.setBoundingBoxes(false);
         debugRenderer.setRegionAttachments(false);
 
+
+        String path = "spine/"+ConstantsKt.getSpinePath()+"/"+ConstantsKt.getSpinePath();
         // atlas = new TextureAtlas(Gdx.files.internal("goblins/goblins.atlas"));
-        atlas = new TextureAtlas(Gdx.files.internal("spine/fengbaonv/fengbaonv.atlas"));
+        atlas = new TextureAtlas(Gdx.files.internal( path+".atlas"));
         json = new SkeletonJson(atlas); // This loads skeleton JSON data, which is stateless.
-        json.setScale(0.8F);
-        SkeletonData skeletonData = json.readSkeletonData(Gdx.files.internal("spine/fengbaonv/fengbaonv.json"));
+        json.setScale(ConstantsKt.getSpineScale());
+        SkeletonData skeletonData = json.readSkeletonData(Gdx.files.internal(path+".json"));
         // SkeletonData skeletonData = json.readSkeletonData(Gdx.files.internal("goblins/goblins.json"));
         skeleton = new Skeleton(skeletonData); // Skeleton holds skeleton state (bone positions, slot attachments, etc).
-        skeleton.setPosition(380f, 400f);
+
+        float with = skeletonData.getWidth();
+        skeleton.setPosition(with*ConstantsKt.getSpineScale()/2, 0f);
 
         AnimationStateData stateData = new AnimationStateData(skeletonData); // Defines mixing (crossfading) between animations.
         stateData.setMix("animation", "animation", 0.2f);
@@ -113,4 +124,5 @@ public class GdxAdapter extends ApplicationAdapter {
     public void zoomSmall() {
         camera.zoom = 1f;
     }
+
 }

@@ -1,0 +1,272 @@
+
+030.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nvshenluka10
+  rotate: false
+  xy: 1798, 40
+  size: 212, 203
+  orig: 212, 203
+  offset: 0, 0
+  index: -1
+nvshenluka11
+  rotate: true
+  xy: 2, 2
+  size: 45, 61
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+nvshenluka12
+  rotate: true
+  xy: 1054, 136
+  size: 154, 381
+  orig: 154, 381
+  offset: 0, 0
+  index: -1
+nvshenluka14
+  rotate: false
+  xy: 600, 572
+  size: 206, 470
+  orig: 206, 470
+  offset: 0, 0
+  index: -1
+nvshenluka15
+  rotate: true
+  xy: 1059, 1250
+  size: 137, 632
+  orig: 137, 632
+  offset: 0, 0
+  index: -1
+nvshenluka17
+  rotate: true
+  xy: 1436, 407
+  size: 165, 355
+  orig: 165, 355
+  offset: 0, 0
+  index: -1
+nvshenluka19
+  rotate: false
+  xy: 1562, 1127
+  size: 110, 121
+  orig: 110, 121
+  offset: 0, 0
+  index: -1
+nvshenluka2
+  rotate: false
+  xy: 331, 44
+  size: 269, 374
+  orig: 269, 374
+  offset: 0, 0
+  index: -1
+nvshenluka20
+  rotate: false
+  xy: 1016, 625
+  size: 469, 122
+  orig: 469, 122
+  offset: 0, 0
+  index: -1
+nvshenluka21
+  rotate: false
+  xy: 602, 103
+  size: 144, 467
+  orig: 144, 467
+  offset: 0, 0
+  index: -1
+nvshenluka22
+  rotate: false
+  xy: 1437, 58
+  size: 359, 347
+  orig: 359, 347
+  offset: 0, 0
+  index: -1
+nvshenluka24
+  rotate: true
+  xy: 1798, 245
+  size: 343, 106
+  orig: 343, 106
+  offset: 0, 0
+  index: -1
+nvshenluka25
+  rotate: false
+  xy: 655, 1080
+  size: 402, 335
+  orig: 402, 335
+  offset: 0, 0
+  index: -1
+nvshenluka26
+  rotate: false
+  xy: 2, 1044
+  size: 651, 1001
+  orig: 651, 1001
+  offset: 0, 0
+  index: -1
+nvshenluka27
+  rotate: false
+  xy: 655, 1417
+  size: 453, 628
+  orig: 453, 628
+  offset: 0, 0
+  index: -1
+nvshenluka28
+  rotate: false
+  xy: 331, 420
+  size: 267, 622
+  orig: 267, 622
+  offset: 0, 0
+  index: -1
+nvshenluka29
+  rotate: false
+  xy: 808, 583
+  size: 168, 87
+  orig: 168, 87
+  offset: 0, 0
+  index: -1
+nvshenluka3
+  rotate: true
+  xy: 1110, 1389
+  size: 222, 606
+  orig: 222, 606
+  offset: 0, 0
+  index: -1
+nvshenluka30
+  rotate: false
+  xy: 1712, 590
+  size: 199, 137
+  orig: 199, 137
+  offset: 0, 0
+  index: -1
+nvshenluka31
+  rotate: false
+  xy: 808, 672
+  size: 206, 406
+  orig: 206, 406
+  offset: 0, 0
+  index: -1
+nvshenluka32
+  rotate: true
+  xy: 1442, 757
+  size: 291, 287
+  orig: 291, 287
+  offset: 0, 0
+  index: -1
+nvshenluka33
+  rotate: false
+  xy: 1913, 534
+  size: 133, 193
+  orig: 133, 193
+  offset: 0, 0
+  index: -1
+nvshenluka35
+  rotate: false
+  xy: 1693, 1166
+  size: 353, 197
+  orig: 353, 197
+  offset: 0, 0
+  index: -1
+nvshenluka37
+  rotate: true
+  xy: 748, 134
+  size: 38, 88
+  orig: 38, 88
+  offset: 0, 0
+  index: -1
+nvshenluka38
+  rotate: false
+  xy: 1968, 1719
+  size: 58, 326
+  orig: 58, 326
+  offset: 0, 0
+  index: -1
+nvshenluka39
+  rotate: true
+  xy: 1731, 729
+  size: 154, 261
+  orig: 154, 261
+  offset: 0, 0
+  index: -1
+nvshenluka41
+  rotate: false
+  xy: 1487, 574
+  size: 223, 181
+  orig: 223, 181
+  offset: 0, 0
+  index: -1
+nvshenluka42
+  rotate: true
+  xy: 1110, 1613
+  size: 432, 642
+  orig: 432, 642
+  offset: 0, 0
+  index: -1
+nvshenluka44
+  rotate: false
+  xy: 1718, 1365
+  size: 267, 207
+  orig: 267, 207
+  offset: 0, 0
+  index: -1
+nvshenluka48
+  rotate: false
+  xy: 1054, 292
+  size: 380, 331
+  orig: 380, 331
+  offset: 0, 0
+  index: -1
+nvshenluka49
+  rotate: false
+  xy: 748, 174
+  size: 304, 396
+  orig: 304, 396
+  offset: 0, 0
+  index: -1
+nvshenluka5
+  rotate: true
+  xy: 2, 49
+  size: 122, 309
+  orig: 122, 309
+  offset: 0, 0
+  index: -1
+nvshenluka50
+  rotate: false
+  xy: 1731, 885
+  size: 242, 279
+  orig: 242, 279
+  offset: 0, 0
+  index: -1
+nvshenluka51
+  rotate: false
+  xy: 1906, 421
+  size: 119, 111
+  orig: 119, 111
+  offset: 0, 0
+  index: -1
+nvshenluka6
+  rotate: false
+  xy: 2, 173
+  size: 327, 869
+  orig: 327, 869
+  offset: 0, 0
+  index: -1
+nvshenluka7
+  rotate: true
+  xy: 1754, 1574
+  size: 471, 212
+  orig: 471, 212
+  offset: 0, 0
+  index: -1
+nvshenluka8
+  rotate: false
+  xy: 1059, 1050
+  size: 501, 198
+  orig: 501, 198
+  offset: 0, 0
+  index: -1
+nvshenluka9
+  rotate: true
+  xy: 1016, 749
+  size: 299, 424
+  orig: 299, 424
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,278 @@
+
+005.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huaban01
+  rotate: false
+  xy: 1115, 6
+  size: 104, 243
+  orig: 104, 243
+  offset: 0, 0
+  index: -1
+huaban02
+  rotate: true
+  xy: 882, 1406
+  size: 186, 226
+  orig: 186, 226
+  offset: 0, 0
+  index: -1
+huaban03
+  rotate: false
+  xy: 1116, 1138
+  size: 58, 75
+  orig: 58, 75
+  offset: 0, 0
+  index: -1
+huaban04
+  rotate: true
+  xy: 1331, 1152
+  size: 61, 58
+  orig: 61, 58
+  offset: 0, 0
+  index: -1
+huaban05
+  rotate: true
+  xy: 2, 2
+  size: 30, 72
+  orig: 30, 72
+  offset: 0, 0
+  index: -1
+huaban06
+  rotate: true
+  xy: 1040, 1128
+  size: 85, 74
+  orig: 85, 74
+  offset: 0, 0
+  index: -1
+huaban07
+  rotate: false
+  xy: 882, 1099
+  size: 156, 305
+  orig: 156, 305
+  offset: 0, 0
+  index: -1
+huaban08
+  rotate: false
+  xy: 1221, 27
+  size: 122, 222
+  orig: 122, 222
+  offset: 0, 0
+  index: -1
+lvka01
+  rotate: true
+  xy: 785, 704
+  size: 386, 719
+  orig: 386, 719
+  offset: 0, 0
+  index: -1
+lvka02
+  rotate: true
+  xy: 548, 2
+  size: 694, 565
+  orig: 694, 565
+  offset: 0, 0
+  index: -1
+lvka03
+  rotate: false
+  xy: 1876, 1859
+  size: 162, 88
+  orig: 162, 88
+  offset: 0, 0
+  index: -1
+lvka04
+  rotate: false
+  xy: 1506, 1145
+  size: 540, 411
+  orig: 540, 411
+  offset: 0, 0
+  index: -1
+lvka05
+  rotate: true
+  xy: 1345, 34
+  size: 215, 570
+  orig: 215, 570
+  offset: 0, 0
+  index: -1
+lvka06
+  rotate: true
+  xy: 1115, 1558
+  size: 488, 759
+  orig: 488, 759
+  offset: 0, 0
+  index: -1
+lvka07
+  rotate: false
+  xy: 1876, 1949
+  size: 163, 97
+  orig: 163, 97
+  offset: 0, 0
+  index: -1
+lvka08
+  rotate: false
+  xy: 2, 691
+  size: 268, 1355
+  orig: 268, 1355
+  offset: 0, 0
+  index: -1
+lvka09
+  rotate: true
+  xy: 604, 1790
+  size: 256, 179
+  orig: 256, 179
+  offset: 0, 0
+  index: -1
+lvka11
+  rotate: false
+  xy: 604, 1092
+  size: 276, 500
+  orig: 276, 500
+  offset: 0, 0
+  index: -1
+lvka12
+  rotate: false
+  xy: 1115, 296
+  size: 371, 406
+  orig: 371, 406
+  offset: 0, 0
+  index: -1
+lvka13
+  rotate: false
+  xy: 272, 1092
+  size: 330, 954
+  orig: 330, 954
+  offset: 0, 0
+  index: -1
+lvka15
+  rotate: true
+  xy: 1506, 595
+  size: 254, 518
+  orig: 254, 518
+  offset: 0, 0
+  index: -1
+lvka17
+  rotate: true
+  xy: 1506, 851
+  size: 292, 533
+  orig: 292, 533
+  offset: 0, 0
+  index: -1
+lvka18
+  rotate: true
+  xy: 1876, 1753
+  size: 104, 161
+  orig: 104, 161
+  offset: 0, 0
+  index: -1
+lvka19
+  rotate: true
+  xy: 1176, 1150
+  size: 63, 153
+  orig: 63, 153
+  offset: 0, 0
+  index: -1
+lvka21
+  rotate: false
+  xy: 1110, 1407
+  size: 62, 149
+  orig: 62, 149
+  offset: 0, 0
+  index: -1
+lvka22
+  rotate: false
+  xy: 2, 34
+  size: 544, 655
+  orig: 544, 655
+  offset: 0, 0
+  index: -1
+lvka23
+  rotate: true
+  xy: 785, 1594
+  size: 452, 328
+  orig: 452, 328
+  offset: 0, 0
+  index: -1
+lvka24
+  rotate: false
+  xy: 1876, 1607
+  size: 160, 144
+  orig: 160, 144
+  offset: 0, 0
+  index: -1
+lvka27
+  rotate: true
+  xy: 604, 1650
+  size: 138, 175
+  orig: 138, 175
+  offset: 0, 0
+  index: -1
+texiao1
+  rotate: true
+  xy: 272, 698
+  size: 392, 511
+  orig: 392, 511
+  offset: 0, 0
+  index: -1
+texiao2
+  rotate: true
+  xy: 1488, 251
+  size: 342, 545
+  orig: 342, 545
+  offset: 0, 0
+  index: -1
+xing1
+  rotate: false
+  xy: 1040, 1215
+  size: 439, 189
+  orig: 439, 189
+  offset: 0, 0
+  index: -1
+
+0052.png
+size: 1867,525
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lvka10
+  rotate: true
+  xy: 2, 50
+  size: 473, 567
+  orig: 473, 567
+  offset: 0, 0
+  index: -1
+lvka14
+  rotate: true
+  xy: 1025, 202
+  size: 321, 560
+  orig: 321, 560
+  offset: 0, 0
+  index: -1
+lvka16
+  rotate: false
+  xy: 1587, 199
+  size: 278, 324
+  orig: 278, 324
+  offset: 0, 0
+  index: -1
+lvka20
+  rotate: false
+  xy: 1025, 2
+  size: 319, 198
+  orig: 319, 198
+  offset: 0, 0
+  index: -1
+lvka25
+  rotate: false
+  xy: 1346, 4
+  size: 206, 196
+  orig: 206, 196
+  offset: 0, 0
+  index: -1
+lvka26
+  rotate: true
+  xy: 571, 27
+  size: 496, 452
+  orig: 496, 452
+  offset: 0, 0
+  index: -1
