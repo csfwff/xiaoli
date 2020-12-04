@@ -54,8 +54,12 @@ public class GdxAdapter extends ApplicationAdapter {
         // SkeletonData skeletonData = json.readSkeletonData(Gdx.files.internal("goblins/goblins.json"));
         skeleton = new Skeleton(skeletonData); // Skeleton holds skeleton state (bone positions, slot attachments, etc).
 
-        float with = skeletonData.getWidth();
-        skeleton.setPosition(with*ConstantsKt.getSpineScale()/2, 0f);
+        //float with = skeletonData.getWidth()*ConstantsKt.getSpineScale();
+        float viewWidth = DpToPx.INSTANCE.dip2px(XiaoliApplication.Companion.getInstance(),180);
+
+
+        //skeleton.setPosition(with*ConstantsKt.getSpineScale()/2, 0f);
+        skeleton.setPosition(viewWidth/2, 5f);
 
         AnimationStateData stateData = new AnimationStateData(skeletonData); // Defines mixing (crossfading) between animations.
         stateData.setMix("animation", "animation", 0.2f);
