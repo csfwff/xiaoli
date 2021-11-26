@@ -15,6 +15,8 @@ import com.chad.library.adapter.base.BaseViewHolder
 import com.xiamo.xiaoli.bean.Event
 import com.xiamo.xiaoli.other.GdxAdapter
 import com.xiamo.xiaoli.other.SpineBg
+import com.xiamo.xiaoli.other.SpinePath
+import com.xiamo.xiaoli.utils.SpineDataUtils
 import kotlinx.android.synthetic.main.activity_main.*
 import org.greenrobot.eventbus.EventBus
 import org.greenrobot.eventbus.Subscribe
@@ -35,7 +37,6 @@ class MainActivity : AndroidApplication(),View.OnClickListener{
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         EventBus.getDefault().register(this)
-        GlideApp.with(this).load(SpineBg).into(spineBgImg)
         window.addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON)
         weekRecy.layoutManager = LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false)
         val weeks = listOf(
@@ -47,6 +48,8 @@ class MainActivity : AndroidApplication(),View.OnClickListener{
 
         mHandler.postDelayed(TimeRunnable(), 0)
 
+        getRandomRes()
+        GlideApp.with(this).load(SpineBg).into(spineBgImg)
         initGDX()
 
         setBtn.setOnClickListener(this)
@@ -130,4 +133,15 @@ class MainActivity : AndroidApplication(),View.OnClickListener{
         super.onDestroy()
         EventBus.getDefault().unregister(this)
     }
+
+    fun getRandomRes(){
+        var list = SpineDataUtils.getSpinList()
+        var index = (0..list.size).random()
+
+        SpinePath = list[index].name
+        SpineBg = list[index].bgRes
+
+
+    }
+
 }
